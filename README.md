@@ -6,6 +6,14 @@ Extension to get array of media assets like MP3, MP4 and JPG.
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/nexuslinkservices/assets-finder/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/nexuslinkservices/assets-finder/?branch=master)
 [![Build Status](https://scrutinizer-ci.com/g/nexuslinkservices/assets-finder/badges/build.png?b=master)](https://scrutinizer-ci.com/g/nexuslinkservices/assets-finder/build-status/master)
 
+## Installation
+
+If you use composer, you can add this package by running 
+
+````
+composer require nexuslinkservices/assets-finder
+````
+
 ## Usage
 
 Define and set value of media parameters in configuration yml file like this.
