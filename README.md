@@ -33,6 +33,7 @@ Example usage:
 
 ```
 <?php
+
 use AssetsFinder\MediaParser;
 
 $assetsFinder = new MediaParser;
@@ -41,7 +42,7 @@ $content = "First sample file http://www.mywebsite.com/firstsample.mp3 and secon
 $result = $assetsFinder->FindMedia($content);
 ```
 
-## Output on PHP
+## Output
 
 ```
 Array
