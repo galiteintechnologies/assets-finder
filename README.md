@@ -11,7 +11,7 @@ Extension to get array of media assets like MP3, MP4 and JPG.
 If you use composer, you can add this package by running 
 
 ````
-composer require nexuslinkservices/assets-finder
+composer require galiteintechnologies/assets-finder
 ````
 
 ## Usage
